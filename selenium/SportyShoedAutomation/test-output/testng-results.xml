@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-24T13:30:20 IST" name="Default suite" finished-at="2023-08-24T13:31:02 IST" duration-ms="41199">
+    <groups>
+    </groups>
+    <test started-at="2023-08-24T13:30:20 IST" name="Default test" finished-at="2023-08-24T13:31:02 IST" duration-ms="41199">
+      <class name="in.sportyshoes.testscripts.placeOrder">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:in.sportyshoes.testscripts.placeOrder@53fb3dab]" started-at="2023-08-24T13:30:20 IST" name="launchApplication" finished-at="2023-08-24T13:30:34 IST" duration-ms="13492" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="PlaceOrder()[pri:0, instance:in.sportyshoes.testscripts.placeOrder@53fb3dab]" started-at="2023-08-24T13:30:34 IST" name="PlaceOrder" finished-at="2023-08-24T13:30:58 IST" duration-ms="24093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PlaceOrder -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:in.sportyshoes.testscripts.placeOrder@53fb3dab]" started-at="2023-08-24T13:30:58 IST" name="closeBrowser" finished-at="2023-08-24T13:31:02 IST" duration-ms="3281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- in.sportyshoes.testscripts.placeOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
